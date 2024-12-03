@@ -1,0 +1,17 @@
+# .NET Core
+bin/
+obj/
+*.user
+*.suo
+*.ntvs*
+*.njsproj
+*.sln.docstates
+
+# Visual Studio
+.vs/
+*.swp
+*.*~
+project.lock.json
+
+# VSCode
+.vscode/
